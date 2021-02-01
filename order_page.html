@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <link rel="stylesheet" href="./dist/style.css">
+    <title>Ordering</title>
+</head>
+
+<body id="main">
+    <div class="wrapper">
+        <header class="header">
+        </header>
+        <!--  -->
+        <!--  -->
+        <!--  -->
+        <div class="content">
+            <div class="adress_way">
+                <div class='container'>
+                    <img src="./img/icons/homepage.png" alt="">
+                    <span>/ Оформление заказа</span>
+                </div>
+            </div>
+            <div class="products_ordering">
+                <div class='container'>
+                    <div class="products_ordering_row">
+                        <!-- МЕСТО ДЛЯ ТОВАРОВ -->
+                    </div>
+                    <div class="products_ordering_total">
+                        <div class="products_ordering_total_body">
+                            <div class="products_ordering_total_text">общая сумма покупки</div>
+                            <div class="products_ordering_total-price">0 грн.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="checkout">
+                <div class='container'>
+                    <div class="checkout-who_are_you">
+                        <div class="checkout-who_are_you-new _tab_trigger_">я новый покупатель</div>
+                        <div class="checkout-who_are_you-old _tab_trigger_">уже зарегистрирован</div>
+                    </div>
+                    <div class="_checkout_line_">
+                        <div class="_checkout_line-line_"></div>
+                    </div>
+                    <div class="tabs_content">
+                        <form action="#" class="_tab_content_ checkout_form">
+                            <div class="checkout_form_columns">
+                                <div class="checkout_form_column">
+                                    <label class="checkout_descr">
+                                        <div class="checkout_text">Имя<span>*</span></div>
+                                        <input type="text" class="form_input" name="name">
+                                    </label>
+                                    <label class="checkout_descr">
+                                        <div class="checkout_text">Фамилия</div>
+                                        <input type="text" class="form_input" name="surName">
+                                    </label>
+                                    <label class="checkout_descr">
+                                        <div class="checkout_text">Телефон<span>*</span></div>
+                                        <div class="form_input form_input-tel">+7</div>
+                                        <input type="tel" class="form_input _phone_mask_valid_" name="telephone">
+                                    </label>
+                                    <label class="checkout_descr">
+                                        <div class="checkout_text">Email</div>
+                                        <input type="email" class="form_input _email_valid_" name="email">
+                                    </label>
+                                    <label class=" checkout_descr_textarea">
+                                        <div class="checkout_text">Комментарий</div>
+                                        <textarea class="form_input checkout_comment_textarea"
+                                            name="comment"></textarea>
+                                    </label>
+                                </div>
+                                <div class="checkout_form_column">
+                                    <div class="checkout_descr">
+                                        <div class="checkout_text">Доставка</div>
+                                        <select name="select" class="form_input">
+                                            <option value="новая почта">Новая почта</option>
+                                            <option value="старая почта">Старая почта</option>
+                                        </select>
+                                    </div>
+                                    <div class="checkout_descr checkout_descr-text">Доставка в отделение службы
+                                        доставки.
+                                        Выберите любое удобное для вас отделение:</div>
+                                    <label class="checkout_descr">
+                                        <div class="checkout_text">Город</div>
+                                        <input type="text" class="form_input" name="city">
+                                    </label>
+                                    <label class="checkout_descr">
+                                        <div class="checkout_text">Номер отделения</div>
+                                        <input type="text" class="form_input" name="number_mail">
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="checkout_form_button">
+                                <div class="checkout_descr">
+                                    <div class="checkout_text"></div>
+                                    <button type="submit"><img src="./img/icons/submitwhite.png" alt="">ОФОРМИТЬ
+                                        ЗАКАЗ</button>
+                                </div>
+                            </div>
+                        </form>
+                        <form action="#" class="_tab_content_ checkout_form">
+                            <div class="checkout_form_columns">
+                                <div class="checkout_form_column">
+                                    <label class="checkout_descr">
+                                        <div class="checkout_text">Логин</div>
+                                        <input type="text" class="form_input" name="login">
+                                    </label>
+                                    <label class="checkout_descr">
+                                        <div class="checkout_text">Пароль</div>
+                                        <input type="text" class="form_input" name="password">
+                                    </label>
+                                </div>
+                                <div class="checkout_form_column">
+                                    <label class="checkout_descr">
+                                        <div class="checkout_text">Телефон</div>
+                                        <div class="form_input form_input-tel">+7</div>
+                                        <input type="tel" class="form_input _phone_mask_valid_" name="telephone">
+                                    </label>
+                                    <label class="checkout_descr">
+                                        <div class="checkout_text">Email</div>
+                                        <input type="email" class="form_input _email_valid_" name="email">
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="checkout_form_button">
+                                <div class="checkout_descr">
+                                    <div class="checkout_text"></div>
+                                    <button type="submit"><img src="./img/icons/submitwhite.png" alt="">ОФОРМИТЬ
+                                        ЗАКАЗ</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="place_to_message"></div>
+                </div>
+            </div>
+        </div>
+        <!--  -->
+        <!--  -->
+        <!--  -->
+        <footer class="footer"></footer>
+    </div>
+    <!--  -->
+    <!--  -->
+    <div class="menu_page">
+        <div class="burger_menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="burger_page"></div>
+    </div>
+    <a href="#main" class="_arrow_up">
+        <img src="./img/icons/up.png" alt="">
+    </a>
+    <!--  -->
+    <!--  -->
+    <script src="./dist/bundle.js"></script>
+</body>
+
+</html>

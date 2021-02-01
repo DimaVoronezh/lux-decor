@@ -1,0 +1,176 @@
+{
+  "products": [
+    {
+      "name": "Матовая краска Interior 02 Super White Spektrum",
+      "img": "http://lux-decor/img/products/product1.png",
+      "pricenew": "120 грн.",
+      "priceold": "120 грн.",
+      "happeningWithProduct": "хит",
+      "id": 1
+    },
+    {
+      "name": "Краска Spektrum Interior 02",
+      "img": "http://lux-decor/img/products/orange_color.png",
+      "pricenew": "384 грн.",
+      "priceold": "450 грн.",
+      "happeningWithProduct": "акция",
+      "id": 2
+    },
+    {
+      "name": "Краска Spektrum Interior 05",
+      "img": "http://lux-decor/img/products/blue_color.png",
+      "pricenew": "420 грн.",
+      "priceold": "800 грн.",
+      "happeningWithProduct": "",
+      "id": 3
+    },
+    {
+      "name": "Штукатурка в стиле 'LOFT' эффект 'Бетон'",
+      "img": "http://lux-decor/img/products/product2.png",
+      "pricenew": "150 грн.",
+      "priceold": "150 грн.",
+      "happeningWithProduct": "",
+      "id": 4
+    },
+    {
+      "name": "Штукатурка в стиле 'LOFT' эффект 'Чистота'",
+      "img": "http://lux-decor/img/products/product4.png",
+      "pricenew": "120 грн.",
+      "priceold": "120 грн.",
+      "happeningWithProduct": "новинка",
+      "id": 5
+    },
+    {
+      "name": "Штукатурка в стиле 'LOFT' эффект 'Grey'",
+      "img": "http://lux-decor/img/products/product3.png",
+      "pricenew": "220 грн.",
+      "priceold": "220 грн.",
+      "happeningWithProduct": "",
+      "id": 6
+    },
+    {
+      "name": "Матовая краска Interior 02 Super Red",
+      "img": "http://lux-decor/img/products/product1.png",
+      "pricenew": "189 грн.",
+      "priceold": "210 грн.",
+      "happeningWithProduct": "",
+      "id": 7
+    },
+    {
+      "name": "Краска Blue",
+      "img": "http://lux-decor/img/products/blue_color.png",
+      "pricenew": "350 грн.",
+      "priceold": "420 грн.",
+      "happeningWithProduct": "",
+      "id": 8
+    },
+    {
+      "name": "Декоративное покрытие Ferrara Base S",
+      "img": "http://lux-decor/img/hits/slide.png",
+      "pricenew": "89 грн.",
+      "priceold": "110 грн.",
+      "happeningWithProduct": "",
+      "id": 9
+    },
+    {
+      "name": "Краска КРАСНАЯ",
+      "img": "http://lux-decor/img/products/product1.png",
+      "pricenew": "250 грн.",
+      "priceold": "249 грн.",
+      "happeningWithProduct": "хит",
+      "id": 10
+    },
+    {
+      "name": "Краска Super White Spektrum BOOM",
+      "img": "http://lux-decor/img/products/blue_color.png",
+      "pricenew": "255 грн.",
+      "priceold": "155 грн.",
+      "happeningWithProduct": "хит",
+      "id": 11
+    },
+    {
+      "name": "Краска BOOM",
+      "img": "http://lux-decor/img/products/orange_color.png",
+      "pricenew": "120 грн.",
+      "priceold": "170 грн.",
+      "happeningWithProduct": "хит",
+      "id": 12
+    },
+    {
+      "name": "Штукатурка BOOM",
+      "img": "http://lux-decor/img/hits/slide.png",
+      "pricenew": "120 грн.",
+      "priceold": "175 грн.",
+      "happeningWithProduct": "акция",
+      "id": 13
+    },
+    {
+      "name": "Штукатурка BOOM SUPER",
+      "img": "http://lux-decor/img/hits/slide.png",
+      "pricenew": "220 грн.",
+      "priceold": "250 грн.",
+      "happeningWithProduct": "акция",
+      "id": 14
+    },
+    {
+      "name": "Штукатурка BOOM SUPER MEGA",
+      "img": "http://lux-decor/img/hits/slide.png",
+      "pricenew": "99 грн.",
+      "priceold": "150 грн.",
+      "happeningWithProduct": "акция",
+      "id": 15
+    },
+    {
+      "name": "Штукатурка SUPER RED",
+      "img": "http://lux-decor/img/hits/slide.png",
+      "pricenew": "450 грн.",
+      "priceold": "550 грн.",
+      "happeningWithProduct": "акция",
+      "id": 16
+    },
+    {
+      "name": "Краска Super White Spektrum",
+      "img": "http://lux-decor/img/products/blue_color.png",
+      "pricenew": "120 грн.",
+      "priceold": "150 грн.",
+      "happeningWithProduct": "хит",
+      "id": 17
+    }
+  ],
+  "productsOrder": [],
+  "searching_value": [
+    {
+      "value": "    ыва",
+      "id": 1
+    }
+  ],
+  "SendingForm": [
+    {
+      "name": "",
+      "surName": "",
+      "telephone": "",
+      "email": "",
+      "comment": "",
+      "select": "новая почта",
+      "city": "",
+      "number_mail": "",
+      "продукт№1": "{\"idURL\":\"1\",\"name\":\"Краска КРАСНАЯ\",\"currentPrice\":\"1\",\"oldPrice\":\"249 грн.\",\"totalPricePerProduct\":\"250 грн.\"}",
+      "продукт№2": "{\"idURL\":\"2\",\"name\":\"Матовая краска Interior 02 Super White Spektrum\",\"currentPrice\":\"1\",\"oldPrice\":\"120 грн.\",\"totalPricePerProduct\":\"120 грн.\"}",
+      "id": 1
+    },
+    {
+      "name": "",
+      "surName": "",
+      "telephone": "",
+      "email": "",
+      "comment": "",
+      "select": "новая почта",
+      "city": "",
+      "number_mail": "",
+      "продукт№1": "{\"idURL\":\"1\",\"name\":\"Матовая краска Interior 02 Super White Spektrum\",\"currentPrice\":\"1\",\"oldPrice\":\"120 грн.\",\"totalPricePerProduct\":\"120 грн.\"}",
+      "продукт№2": "{\"idURL\":\"2\",\"name\":\"Краска КРАСНАЯ\",\"currentPrice\":\"1\",\"oldPrice\":\"249 грн.\",\"totalPricePerProduct\":\"250 грн.\"}",
+      "продукт№3": "{\"idURL\":\"3\",\"name\":\"Краска Super White Spektrum BOOM\",\"currentPrice\":\"1\",\"oldPrice\":\"155 грн.\",\"totalPricePerProduct\":\"255 грн.\"}",
+      "id": 2
+    }
+  ]
+}
